@@ -1,0 +1,7 @@
+.comments__item {
+    border-top: 1px solid black;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}

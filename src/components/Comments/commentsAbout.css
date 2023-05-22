@@ -1,0 +1,15 @@
+.about__form {
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.about__form strong {
+    margin-bottom: 15px;
+}
+
+
+.comments__container {
+    margin-top: 50px;
+}
